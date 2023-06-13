@@ -1,3 +1,4 @@
+// nav bar show and hide 
 let icon = document.getElementById('icon');
 console.log(icon)
 let list = document.getElementById('list');
